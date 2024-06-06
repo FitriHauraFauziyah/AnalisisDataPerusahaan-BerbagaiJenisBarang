@@ -19,7 +19,6 @@ Kelas: E
    ![Figure_1](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/3776444d-7f32-4a06-84a8-14b34d120602)
    ![Figure_2](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/7752f152-8314-4511-97a8-b666aac37f68)
    ![Figure_3](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/fd03ce84-4a55-4da2-a2fa-2d33fbc6eec4)
-   ![Figure_4](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/35e9ee38-316b-4680-8df9-ef397ad0e685)
 
 
 
