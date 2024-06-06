@@ -15,5 +15,6 @@ Kelas: E
 
 3. Data selesai diproses
 
-4. Menganalisis output yang dihasilkan
+4. Menganalisis output yang dihasilkan, berupa grafik
+   Figure_1.png
 
