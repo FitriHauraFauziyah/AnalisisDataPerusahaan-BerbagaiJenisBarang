@@ -10,10 +10,11 @@ Kelas: E
 
 # Tahap Analisis Data
 1. Mengambil data berupa kode dan memasukkannya ke dalam Visual Studio Code
+   
 
-2. Memproses data tersebut
+3. Memproses data tersebut
 
-3. Data selesai diproses
+4. Data selesai diproses
    ![Screenshot 2024-06-06 110304](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/9e0493fb-ee1e-4031-98f2-02f244b3ee4f)
    
 5. Menganalisis output yang dihasilkan, berupa grafik
