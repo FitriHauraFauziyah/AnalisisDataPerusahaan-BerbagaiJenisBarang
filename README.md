@@ -14,8 +14,9 @@ Kelas: E
 2. Memproses data tersebut
 
 3. Data selesai diproses
-
-4. Menganalisis output yang dihasilkan, berupa grafik
+   ![Screenshot 2024-06-06 110304](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/9e0493fb-ee1e-4031-98f2-02f244b3ee4f)
+   
+5. Menganalisis output yang dihasilkan, berupa grafik
    ![Figure_1](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/3776444d-7f32-4a06-84a8-14b34d120602)
    ![Figure_2](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/7752f152-8314-4511-97a8-b666aac37f68)
    ![Figure_3](https://github.com/FitriHauraFauziyah/AnalisisDataPerusahaan-BerbagaiJenisBarang/assets/167203968/fd03ce84-4a55-4da2-a2fa-2d33fbc6eec4)
