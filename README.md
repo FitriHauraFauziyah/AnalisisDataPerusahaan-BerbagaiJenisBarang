@@ -13,4 +13,7 @@ Kelas: E
 
 2. Memproses data tersebut
 
-3. 
+3. Data selesai diproses
+
+4. Menganalisis output yang dihasilkan
+
