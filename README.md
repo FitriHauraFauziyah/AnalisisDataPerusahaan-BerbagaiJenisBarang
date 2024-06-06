@@ -16,5 +16,5 @@ Kelas: E
 3. Data selesai diproses
 
 4. Menganalisis output yang dihasilkan, berupa grafik
-   Figure_1.png
+   ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Halaman%20Utama.jpeg)
 
